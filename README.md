@@ -17,7 +17,8 @@ The web will tell you if you are correct or wrong
 This game/quiz doesn't mean to discriminate or mean anything bad. It is just a game played for fun. 
 
 
-<img width="1860" height="902" alt="image" src="https://github.com/user-attachments/assets/f0188b2e-f67b-4419-a1b9-bb2c8cc4d834" />
+<img width="1912" height="900" alt="image" src="https://github.com/user-attachments/assets/197d8a31-c770-4c6e-bbc8-6dedc522aa2f" />
+
 
 
 
